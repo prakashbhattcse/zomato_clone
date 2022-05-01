@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# IMAGES 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Link        -          https://prakashbhattcse.github.io/zomato_clone/
 
-## Available Scripts
+                                                   ---------- Delivery Section ---------
+                                                   
+![prakashbhattcse github io_zomato_clone_ (1)](https://user-images.githubusercontent.com/77747508/166136226-2ef0ffdc-5030-4b2e-8946-706f9a17e9a3.png)
+![prakashbhattcse github io_zomato_clone_ (3)](https://user-images.githubusercontent.com/77747508/166136263-6cd4ecbb-e006-45bb-8fa2-b27c529d34eb.png)
+![prakashbhattcse github io_zomato_clone_ (4)](https://user-images.githubusercontent.com/77747508/166136311-532c0556-7b06-48df-a82c-406487e201c7.png)
+![prakashbhattcse github io_zomato_clone_ (5)](https://user-images.githubusercontent.com/77747508/166136336-d25b6e95-361d-4892-9c59-edb2b380e3e3.png)
 
-In the project directory, you can run:
+                                                  ---------- Dine Out Section ---------
+                                                  
+![prakashbhattcse github io_zomato_clone_ (6)](https://user-images.githubusercontent.com/77747508/166136709-58098b48-3e37-4714-bdb8-780cf162ce9c.png)
+![prakashbhattcse github io_zomato_clone_ (20)](https://user-images.githubusercontent.com/77747508/166136726-d097258b-1e30-4346-ba7b-69414b42e761.png)
+![prakashbhattcse github io_zomato_clone_ (8)](https://user-images.githubusercontent.com/77747508/166136740-c65fe640-ecaf-4d42-b15f-92792a197386.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+                                                  ---------- NightLife Section ---------
+                                                  
+![prakashbhattcse github io_zomato_clone_ (9)](https://user-images.githubusercontent.com/77747508/166136748-279b4a19-596b-44d4-bf28-e0e9517757f0.png)
+![prakashbhattcse github io_zomato_clone_ (12)](https://user-images.githubusercontent.com/77747508/166136753-ea669ca8-11ab-44d1-8bf2-7160cc2a58a0.png)
+![prakashbhattcse github io_zomato_clone_ (13)](https://user-images.githubusercontent.com/77747508/166136760-9703be03-2033-4fe1-8c57-8476507dba14.png)
+![prakashbhattcse github io_zomato_clone_ (14)](https://user-images.githubusercontent.com/77747508/166136763-e3a45252-e10e-4dea-b43e-2faacb4b6c0b.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
